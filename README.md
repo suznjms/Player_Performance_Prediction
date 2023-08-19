@@ -1,8 +1,8 @@
 # 🌟 Player Rating Prediction 🤖⚽
 
 # Group J
-## - Suzanne James Stephen James - 882376
-## - Swetha Ravichandran - 881904
+* Suzanne James Stephen James - 882376
+* Swetha Ravichandran - 881904
 
 # Feature Selection and Player Rating Prediction
 
